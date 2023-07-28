@@ -1,0 +1,24 @@
+.man-block{
+    background: url('https://sneaks.kg/images/about/breadcrunb-bg.webp');
+    /* background-repeat: no-repeat; */
+    /* background-size:cover ; */
+    height: 20vw;
+    width: 100%;
+}
+.man-wrapper .text-wrapper {
+    font-weight: 300;
+    letter-spacing: 0em;
+    line-height: 49px;
+    text-align: center;
+    padding-top: 10rem;
+    color:#0000FF ;
+
+}
+
+.input-searchMan {
+    border-radius: 12px;
+    height: 30px;
+    width: 300px;
+    margin-left: 15vw;
+    margin-top: 15vw;
+}

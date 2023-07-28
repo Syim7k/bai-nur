@@ -1,0 +1,11 @@
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 22%;
+    margin-left: -2rem;
+}
+.logo-baiNur {
+    margin-top: -7rem;
+    margin-left: -4.3rem;
+}

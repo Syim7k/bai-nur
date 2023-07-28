@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+
+.home {
+    width: 100%;
+    height: 820vh;
+    background: url('https://shop.app/cdn/shopifycloud/arrive-server/assets/landing/shop-pay-landing-preview-a76ecd902bd3548691bb33031518190a98e26816a49fe8bd4720563f1b3215f1.png');
+    background-repeat: no-repeat;
+    background-size:cover;   
+    background-blend-mode: multiply;
+    background-color: rgb(55, 50, 50);
+}
+.block-home{
+    display: block;
+    justify-content: center;
+}
+.home-tittle{
+    padding-top: 250px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.919);
+
+}
+.home-tittle h1{
+    padding-left: 10rem;
+    padding-right: 10rem;
+    font-size: 64px;
+    font-family: 'Lugrasimo';
+    color: bisque;
+}
+.home-tittle h2 {
+    padding-left: 10rem;
+    padding-right: 10rem;
+    font-size: 50px;
+    font-family: 'Lumanosimo';
+    color: #f58b0abe;
+}
+.section-title .h4-section_title {
+    margin-top: 20rem;
+    font-family: 'Lumanosimo';
+    font-size: 64px;
+    text-align: center;
+}
+
+/*///////////////////////////// carts  ////////////////////////////*/
+
+.box-store {
+    
+    background:white;
+    box-shadow: 0px 9px 49px rgba(142, 136, 136, 0.16);
+    border-radius: 20px 10px 20px 10px;
+    width: 400px;
+    height: 500px;
+}
+.images-fut {
+    width: 300px;
+    border-radius:30px;
+    position: relative;
+    left: 3rem;
+}
+
+.map-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.input-search {
+    margin-top: 30px;
+    border-radius: 30px;
+    padding-left: 10px;
+    width: 600px;
+    height: 50px;
+}
+
+.block-search {
+    display: flex;
+    justify-content: center;
+}
+
+.name-h2 {
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.title-lorem {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+    width: 390px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.price {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.bi-suit-heart {
+    display: flex;
+    position: relative;
+    /* background: red; */
+    top: 4rem;
+    z-index: 1;
+}
+
+.basket-btn {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    width: 200px;
+    height: 44px;
+    background: #0000FF;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.bi {
+    font-size: 20px;
+    padding-left: 40px;
+    
+}
+
+
